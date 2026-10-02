@@ -10,7 +10,7 @@
   </a>
   <a href="https://github.com/NiceATC">
     <img
-      src="https://github-stats-extended.vercel.app/api/top-langs?username=NiceATC&layout=compact&langs_count=6&theme=dark_github"
+      src="https://github-stats-extended.vercel.app/api/top-langs?username=NiceATC&layout=compact&langs_count=8&theme=dark_github"
       height="180"
       alt="Top Languages"
     />
