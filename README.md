@@ -15,6 +15,13 @@
       alt="Top Languages"
     />
   </a>
+  <a href="https://github.com/NiceATC">
+    <img
+      src="https://github-readme-stats-fast.vercel.app/api/streak?username=niceatc&theme=github_dark"
+      height="180"
+      alt="Top Languages"
+    />
+  </a>
 </div>
 
 <div align="center">
